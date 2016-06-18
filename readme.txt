@@ -1,3 +1,12 @@
+# About
+Toggle Text is a simple WordPress plugin. It creates a toggle-text shortcode for toggling dropdown text, similar to an accordion menu.
+
+# Example
+[toggle-text heading="This is the initial text. <i>You can format it too!</i>"]
+This text drops down when you click the toggle text.
+[/toggle-text]
+
+# License
 Toggle Maps by Kim Spasaro is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 You may not modify and/or sell and/or redistribute this work for commercial purposes.
